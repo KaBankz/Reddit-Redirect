@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Reddit Redirect
 // @namespace     https://github.com/KaBankz/Reddit-Redirect
-// @version       0.0.1
+// @version       0.0.2
 // @description   Redirect from new reddit to old reddit
 // @match         https://*.reddit.com/*
 // @author        KaBankz
@@ -12,7 +12,7 @@
 // @icon          https://github.com/KaBankz/Reddit-Redirect/raw/master/icon.png
 // @updateURL     https://raw.githubusercontent.com/KaBankz/Reddit-Redirect/master/reddit-redirect.meta.js
 // @downloadURL   https://raw.githubusercontent.com/KaBankz/Reddit-Redirect/master/reddit-redirect.user.js
-// @run-at        document-body
+// @run-at        document-start
 // @grant         GM_registerMenuCommand
 // ==/UserScript==
 
